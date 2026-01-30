@@ -1,54 +1,59 @@
-# Hi there, I'm Aman Toppo 👋 
+# <p align="center">⚡ AMAN TOPPO ⚡</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
 
-### Full Stack Developer | MERN Specialist
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Specialist;Flutter+Mobile+Architect;AWS+Cloud+Practitioner;Backend+Systems+Engineer" alt="Typing SVG" />
+</p>
 
-I am a results-driven **Full Stack Developer** with over 1 year of professional experience building scalable web and mobile applications. My journey began in the PHP/Laravel ecosystem, but I have since transitioned into a specialist in the **MERN Stack** and **Backend** development.
-
-- 📍 Based in: Nagaon, Assam (Open to opportunities in **Hyderabad**)
-- 🚀 Currently working on: A production-level MERN E-commerce platform
-- ☁️ Learning: **AWS Cloud Infrastructure** 
-- ⚡ Fun fact: I ride a Pulsar RS200 and love Singing!
-
----
-
-### 💻 Tech Stack & Tools
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 🛠️ Featured Projects
-
-- **[ByteTube](https://github.com/amantoppo1739/ByteTube-backend)** - A robust video streaming backend service built with Node.js, Express, and MongoDB.
-- **MERN E-commerce** - A full-featured online retail platform with secure user authentication and payment processing.
-- **Sales Lead Management System** - Developed during my time at Catla Broadband, focusing on optimizing business workflows.
-
----
-
-### 📈 My GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amantoppo1739&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-toppo-b54a43305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amantoppo1739@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-toppo-b54a43305/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantoppo1739@gmail.com)
+### 🧬 About the Architect
+> "Building the bridge between complex backends and elegant frontends."
+
+- 🔭 **Current Focus:** Engineering a production-grade MERN E-commerce ecosystem.
+- ⚡ **Tech Journey:** From Laravel monoliths to modern MERN microservices.
+- ☁️ **Cloud:** Currently deep-diving into **AWS** to ensure 99.9% uptime.
+- 📍 **Status:** Based in Nagaon | Ready to relocate to **Hyderabad**.
+- 🏍️ **Lifestyle:** Singing, fast-paced rap, and the roar of a Pulsar RS200.
+
+---
+
+### 🛠️ The Tech Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,dart,js,aws,docker,git,mysql,laravel&perline=6" />
+</p>
+
+---
+
+### 🚀 High-Impact Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ByteTube](https://github.com/amantoppo1739/ByteTube-backend)** | Scalable Video Streaming Engine | `Node.js` `Express` `MongoDB` |
+| **MERN E-Commerce** | Production-Ready Retail Platform | `React` `Redux` `Stripe` |
+| **Lead Management** | Enterprise-grade workflow automation | `Laravel` `MySQL` |
+
+---
+
+### 📊 Tactical Data
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amantoppo1739&show_icons=true&theme=neon&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amantoppo1739&layout=compact&theme=neon&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantoppo1739&theme=neon&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Build Something Great

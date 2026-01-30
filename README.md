@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Specialist;Flutter+Mobile+Architect;AWS+Cloud+Practitioner;Backend+Systems+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack;Flutter+Mobile+Architect;AWS+Cloud+Practitioner;Backend+Systems+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - ⚡ **Tech Journey:** From Laravel monoliths to modern MERN microservices.
 - ☁️ **Cloud:** Currently deep-diving into **AWS** to ensure 99.9% uptime.
 - 📍 **Status:** Based in Nagaon | Ready to relocate to **Hyderabad**.
-- 🏍️ **Lifestyle:** Singing, fast-paced rap, and the roar of a Pulsar RS200.
+- 🏍️ **Lifestyle:** Singing, guitar, and the roar of a Pulsar RS200.
 
 ---
 

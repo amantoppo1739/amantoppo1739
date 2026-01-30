@@ -44,7 +44,7 @@ I am a results-driven **Full Stack Developer** with over 1 year of professional 
 ### 📈 My GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amantoppo1739&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amantoppo1739&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---

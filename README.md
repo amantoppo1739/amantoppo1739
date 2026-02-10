@@ -37,7 +37,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[SentinelCloud](https://github.com/amantoppo1739/SentinelCloud)** | Distributed Uptime Monitor with BullMQ & Redis workers. | `Next.js` `Redis` `AWS` |
+| **[SentinelCloud](https://github.com/amantoppo1739/SentinelCloud---Scalable-Uptime-Monit oring-System)** | Distributed Uptime Monitor with BullMQ & Redis workers. | `Next.js` `Redis` `AWS` |
 | **[Synta](https://github.com/amantoppo1739/learning-platform)** | AI Learning Platform with real-time LLM streaming. | `Llama 3.1` `Drizzle` `PostgreSQL` |
 | **[Refine OS](https://github.com/refinedev/refine/pull/7121)** | Logic fix for `useSelect` hook in a 30k+ developer ecosystem. | `React` `TypeScript` |
 

@@ -1,10 +1,10 @@
 # <p align="center">⚡ AMAN TOPPO ⚡</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack;Flutter+Mobile+Architect;AWS+Cloud+Practitioner;Backend+Systems+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Distributed+Systems+Expert;AWS+Cloud+Solutions;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,21 +14,21 @@
 
 ---
 
-### 🧬 About the Architect
-> "Building the bridge between complex backends and elegant frontends."
+### 🧬 About the Engineer
+> "Specializing in scalable architecture, real-time systems, and cloud-native deployments."
 
-- 🔭 **Current Focus:** Engineering a production-grade MERN E-commerce ecosystem.
-- ⚡ **Tech Journey:** From Laravel monoliths to modern MERN microservices.
-- ☁️ **Cloud:** Currently deep-diving into **AWS** to ensure 99.9% uptime.
-- 📍 **Status:** Based in Nagaon | Ready to relocate to **Hyderabad**.
-- 🏍️ **Lifestyle:** Singing, guitar, and the roar of a Pulsar RS200.
+- 🔭 **Current Focus:** Scaling **SentinelCloud** — a distributed uptime monitoring SaaS.
+- ⚡ **Tech Journey:** Transitioned from full-stack web development to building high-performance, event-driven backends.
+- ☁️ **Cloud:** Architecting on **AWS** with a focus on high availability and CI/CD automation.
+- 📍 **Status:** Based in **Hyderabad, India** | Open to high-growth engineering roles.
+- 🏍️ **Lifestyle:** Music, guitar, and long rides on my Pulsar RS200.
 
 ---
 
 ### 🛠️ The Tech Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,dart,js,aws,docker,git,mysql,laravel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,mongodb,redis,aws,docker,githubactions,nginx,git&perline=6" />
 </p>
 
 ---
@@ -37,9 +37,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[ByteTube](https://github.com/amantoppo1739/ByteTube-backend)** | Scalable Video Streaming Engine | `Node.js` `Express` `MongoDB` |
-| **MERN E-Commerce** | Production-Ready Retail Platform | `React` `Redux` `Stripe` |
-| **Lead Management** | Enterprise-grade workflow automation | `Laravel` `MySQL` |
+| **[SentinelCloud](https://github.com/amantoppo1739/SentinelCloud)** | Distributed Uptime Monitor with BullMQ & Redis workers. | `Next.js` `Redis` `AWS` |
+| **[Synta](https://github.com/amantoppo1739/learning-platform)** | AI Learning Platform with real-time LLM streaming. | `Llama 3.1` `Drizzle` `PostgreSQL` |
+| **[Refine OS](https://github.com/refinedev/refine/pull/7121)** | Logic fix for `useSelect` hook in a 30k+ developer ecosystem. | `React` `TypeScript` |
 
 ---
 
